@@ -1,0 +1,4 @@
+strategy,mean_r2,median_r2,mean_mae,mean_rmse,mean_spearman
+simple_average,0.3971,0.3893,0.7914,1.0586,0.6419
+stacked_oof_weights,0.3963,0.3831,0.7919,1.0592,0.6412
+single_model,0.3889,0.3779,0.7972,1.0656,0.6359

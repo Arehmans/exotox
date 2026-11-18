@@ -1,0 +1,3 @@
+unit,matched_parent_pairs,median_difference,mean_difference,wilcoxon_statistic,p_value,direction
+mg/L,248,0.4732,0.6139,7141.0,0.0,halogenated_more_toxic
+mg/kg,13,0.2407,-0.3582,42.0,0.8394,halogenated_more_toxic

@@ -1,0 +1,2 @@
+comparison,n_halogenated,n_non_halogenated,median_error_halogenated,median_error_non_halogenated,mannwhitney_u,p_value,interpretation
+absolute error: halogenated vs non-halogenated,3303,9961,0.6598,0.5311,18162485.0,0.0,halogenated compounds are harder to predict

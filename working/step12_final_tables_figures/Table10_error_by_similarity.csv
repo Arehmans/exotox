@@ -1,0 +1,6 @@
+similarity_band,n_predictions,mean_absolute_error,median_absolute_error,rmse,mean_tree_spread,coverage_standard,coverage_normalised,mean_width_standard,mean_width_normalised
+very_dissimilar (<0.25),1073,0.9473,0.7281,1.2373,1.0807,0.8425,0.8565,3.5774,3.6187
+dissimilar (0.25-0.40),4508,0.7625,0.5529,1.029,1.0193,0.9075,0.9088,3.502,3.3903
+moderate (0.40-0.55),3657,0.7422,0.5543,0.9909,0.9679,0.907,0.9076,3.455,3.2179
+similar (0.55-0.70),1973,0.7479,0.5636,1.0068,0.9539,0.9123,0.9108,3.4382,3.1874
+very_similar (>0.70),2053,0.7106,0.5043,0.9867,0.9315,0.9084,0.9104,3.4409,3.0827

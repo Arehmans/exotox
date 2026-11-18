@@ -1,0 +1,25 @@
+organism_group,organism_name,reliability_label,n_predictions,mean_absolute_error,mean_similarity,percent_of_predictions
+Algae,Desmodesmus subspicatus,borderline_moderate_reliability,605,0.7852,0.4548,46.3957
+Algae,Desmodesmus subspicatus,in_domain_high_reliability,411,0.4683,0.6211,31.5184
+Algae,Desmodesmus subspicatus,out_of_domain_low_reliability,288,1.0366,0.406,22.0859
+Algae,Raphidocelis subcapitata,borderline_moderate_reliability,1461,0.5726,0.4637,43.2249
+Algae,Raphidocelis subcapitata,in_domain_high_reliability,535,0.4282,0.632,15.8284
+Algae,Raphidocelis subcapitata,out_of_domain_low_reliability,1384,0.9696,0.4701,40.9467
+Algae,Skeletonema costatum,borderline_moderate_reliability,55,0.8274,0.5288,9.2282
+Algae,Skeletonema costatum,in_domain_high_reliability,3,0.3168,0.8889,0.5034
+Algae,Skeletonema costatum,out_of_domain_low_reliability,538,1.0939,0.3767,90.2685
+Fish,Danio rerio,borderline_moderate_reliability,998,0.5921,0.5013,40.818
+Fish,Danio rerio,in_domain_high_reliability,239,0.4285,0.6684,9.7751
+Fish,Danio rerio,out_of_domain_low_reliability,1208,0.8715,0.4723,49.407
+Fish,Oncorhynchus mykiss,borderline_moderate_reliability,604,0.5798,0.5181,32.8797
+Fish,Oncorhynchus mykiss,in_domain_high_reliability,205,0.4241,0.6837,11.1595
+Fish,Oncorhynchus mykiss,out_of_domain_low_reliability,1028,0.9161,0.4327,55.9608
+Fish,Oryzias latipes,borderline_moderate_reliability,413,0.6504,0.4536,48.9336
+Fish,Oryzias latipes,in_domain_high_reliability,127,0.4643,0.6506,15.0474
+Fish,Oryzias latipes,out_of_domain_low_reliability,304,0.8987,0.3535,36.019
+Fish,Pimephales promelas,borderline_moderate_reliability,535,0.6303,0.4975,32.1128
+Fish,Pimephales promelas,in_domain_high_reliability,146,0.4004,0.6837,8.7635
+Fish,Pimephales promelas,out_of_domain_low_reliability,985,0.9345,0.4325,59.1236
+Invertebrates,Daphnia magna,borderline_moderate_reliability,437,0.7594,0.4614,36.6611
+Invertebrates,Daphnia magna,in_domain_high_reliability,64,0.4844,0.7,5.3691
+Invertebrates,Daphnia magna,out_of_domain_low_reliability,691,0.997,0.3957,57.9698

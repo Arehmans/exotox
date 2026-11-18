@@ -1,0 +1,4 @@
+chemical_name,smiles,organism_group,organism_name,unit,toxicity_value,endpoint,source
+example_compound_1,CCO,Fish,Danio rerio,mg/L,100.0,LC50_96h,OECD
+example_compound_2,Clc1ccccc1,Fish,Oncorhynchus mykiss,mg/L,10.0,LC50_96h,ECOTOX
+example_compound_3,O=C(Nc1ccc(Cl)cc1)N(C)C,Algae,Raphidocelis subcapitata,mg/L,2.5,EC50_72h,EFSA

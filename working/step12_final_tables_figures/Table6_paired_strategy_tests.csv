@@ -1,0 +1,10 @@
+model,comparison,n_paired_splits,mean_delta_r2,median_delta_r2,pct_splits_improved,wilcoxon_p
+RandomForest,species_aware_pooled - independent_organism,40,0.0053,0.0036,60.0,0.2424
+RandomForest,species_aware_pooled - group_pooled,40,0.0265,0.0205,90.0,0.0
+RandomForest,species_aware_pooled - hierarchical_residual,40,-0.0122,-0.014,17.5,0.0
+XGBoost,species_aware_pooled - independent_organism,40,0.0173,0.0133,82.5,0.0
+XGBoost,species_aware_pooled - group_pooled,40,0.0352,0.0262,95.0,0.0
+XGBoost,species_aware_pooled - hierarchical_residual,40,0.0067,0.0017,60.0,0.2948
+CatBoost,species_aware_pooled - independent_organism,40,0.015,0.0143,67.5,0.0014
+CatBoost,species_aware_pooled - group_pooled,40,0.0335,0.0269,87.5,0.0
+CatBoost,species_aware_pooled - hierarchical_residual,40,-0.0024,-0.0063,42.5,0.1701

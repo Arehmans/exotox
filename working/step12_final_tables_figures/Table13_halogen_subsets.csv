@@ -1,0 +1,31 @@
+halogen_class,organism_group,unit,rows,unique_chemicals,unique_scaffolds,median_pToxicity_molar,mean_pToxicity_molar,std_pToxicity_molar,q1,q3
+Br_only,Algae,mg/L,111,95,75,4.4168,4.6835,1.3099,3.606,5.6795
+Cl_only,Algae,mg/L,794,662,391,4.2921,4.5208,1.2902,3.5467,5.4739
+F_only,Algae,mg/L,294,272,211,3.7443,4.1371,1.2845,3.3916,4.8166
+I_only,Algae,mg/L,28,26,20,4.3265,4.3612,1.2229,3.5964,5.0421
+mixed_halogen,Algae,mg/L,121,110,82,4.8454,4.9518,1.5385,3.7375,5.9412
+non_halogenated,Algae,mg/L,4351,4011,2682,3.8082,4.0737,1.2292,3.2886,4.7424
+Br_only,Avian,mg/kg,12,9,7,2.4491,3.2849,2.099,2.2878,4.1451
+Cl_only,Avian,mg/kg,159,118,67,2.3317,3.1727,2.8314,1.746,3.0487
+F_only,Avian,mg/kg,26,18,17,2.6586,3.6043,2.4026,2.1733,4.663
+I_only,Avian,mg/kg,2,2,2,2.0994,2.0994,0.1094,2.0607,2.1381
+mixed_halogen,Avian,mg/kg,14,9,8,2.3659,2.7221,1.8032,2.1172,2.438
+non_halogenated,Avian,mg/kg,254,190,147,2.4286,3.0271,2.096,1.7643,3.6567
+Br_only,Fish,mg/L,127,100,65,4.1943,4.3049,1.2799,3.3717,5.129
+Cl_only,Fish,mg/L,1325,965,507,4.2132,4.3786,1.382,3.41,5.2586
+F_only,Fish,mg/L,313,256,199,3.6768,3.9079,1.1631,3.272,4.5002
+I_only,Fish,mg/L,33,28,22,4.0698,4.2754,1.616,3.1612,5.591
+mixed_halogen,Fish,mg/L,142,117,72,4.767,4.9321,1.3056,3.8757,5.819
+non_halogenated,Fish,mg/L,5117,3975,2633,3.6849,3.8526,1.295,3.1041,4.6498
+Br_only,Invertebrates,mg/L,46,36,31,4.8223,5.0705,2.2099,3.5537,5.9197
+Cl_only,Invertebrates,mg/L,456,312,182,4.5392,4.7244,1.6891,3.5429,5.7097
+F_only,Invertebrates,mg/L,107,88,78,4.2369,4.5108,1.5433,3.42,5.3434
+I_only,Invertebrates,mg/L,7,7,7,5.5089,5.3577,1.3793,4.5286,6.0189
+mixed_halogen,Invertebrates,mg/L,49,43,32,6.6443,6.5892,2.1372,5.0787,7.4923
+non_halogenated,Invertebrates,mg/L,1172,923,678,3.8915,4.0801,1.6427,3.0688,5.0998
+Br_only,Terrestrial insects and arthropods,mg/kg,13,10,10,3.2456,3.3923,1.4252,2.3233,4.2531
+Cl_only,Terrestrial insects and arthropods,mg/kg,118,97,69,3.0851,3.3189,1.309,2.5119,4.0909
+F_only,Terrestrial insects and arthropods,mg/kg,26,22,20,2.9075,2.5292,1.3026,1.9935,3.4986
+I_only,Terrestrial insects and arthropods,mg/kg,4,4,4,4.6552,4.464,1.1534,4.002,5.1172
+mixed_halogen,Terrestrial insects and arthropods,mg/kg,52,40,29,3.4793,3.5615,2.9602,2.7588,5.4142
+non_halogenated,Terrestrial insects and arthropods,mg/kg,205,184,158,2.9754,3.3192,1.4275,2.4324,4.0586

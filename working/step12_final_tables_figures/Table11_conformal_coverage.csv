@@ -1,0 +1,2 @@
+nominal_coverage,empirical_coverage_standard,empirical_coverage_normalised,mean_interval_width_standard,mean_interval_width_normalised,n_predictions
+0.9,0.903,0.9048,3.4762,3.2835,13264

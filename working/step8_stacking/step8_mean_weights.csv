@@ -1,0 +1,4 @@
+model,mean_learned_weight
+XGBoost,0.2716
+RandomForest,0.3591
+CatBoost,0.3693

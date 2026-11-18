@@ -1,0 +1,6 @@
+organism_group,unit,matched_parent_pairs,median_difference,mean_difference,wilcoxon_statistic,p_value,direction
+Algae,mg/L,102,0.6514,0.5634,1307.0,0.0,halogenated_more_toxic
+Avian,mg/kg,7,0.0668,-1.2288,,,insufficient_matched_pairs
+Fish,mg/L,172,0.6538,0.6838,3079.0,0.0,halogenated_more_toxic
+Invertebrates,mg/L,38,0.636,0.5663,152.0,0.0011,halogenated_more_toxic
+Terrestrial insects and arthropods,mg/kg,6,0.2861,0.3798,,,insufficient_matched_pairs

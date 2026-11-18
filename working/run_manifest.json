@@ -1,0 +1,58 @@
+{
+  "notebook": "Phase 3 - Ecotoxicity Modelling",
+  "generated_utc": "2026-11-17 22:53:57",
+  "run_profile": "standard",
+  "random_state": 42,
+  "configuration": {
+    "outer_splits": 5,
+    "inner_folds": 3,
+    "optuna_trials": 30,
+    "test_size": 0.2,
+    "fingerprint_sizes_tested": [
+      512,
+      1024,
+      2048
+    ],
+    "main_feature_set": "ext_morgan1024",
+    "conformal_alpha": 0.1,
+    "exclude_explicit_halogen_descriptors": true,
+    "multitask_splits": 2,
+    "bootstrap_resamples": 1000
+  },
+  "data": {
+    "ml_ready_rows": 15478,
+    "unique_chemicals": 8112,
+    "unique_scaffolds": 4840,
+    "modelled_organisms": [
+      "Danio rerio",
+      "Daphnia magna",
+      "Desmodesmus subspicatus",
+      "Oncorhynchus mykiss",
+      "Oryzias latipes",
+      "Pimephales promelas",
+      "Raphidocelis subcapitata",
+      "Skeletonema costatum"
+    ],
+    "modelled_groups": [
+      "Algae | mg/L",
+      "Fish | mg/L",
+      "Invertebrates | mg/L"
+    ],
+    "extended_descriptors_kept": 166
+  },
+  "environment": {
+    "python": "3.13.5",
+    "numpy": "2.5.2",
+    "pandas": "3.1.0",
+    "scikit_learn": "1.6.1",
+    "rdkit": "2025.09.1",
+    "optional_libraries": {
+      "optuna": true,
+      "xgboost": true,
+      "lightgbm": true,
+      "catboost": true,
+      "shap": true,
+      "torch": true
+    }
+  }
+}

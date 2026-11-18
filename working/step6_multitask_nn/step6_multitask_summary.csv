@@ -1,0 +1,9 @@
+organism_group,organism_name,dataset_size_category,r2_mean,mae_mean,rmse_mean,spearman_mean,epochs_mean,n_splits
+Algae,Desmodesmus subspicatus,strong,0.2474,0.8066,1.1031,0.5546,24.0,2
+Algae,Raphidocelis subcapitata,strong,0.2466,0.8125,1.0676,0.5318,22.5,2
+Algae,Skeletonema costatum,medium,0.3424,1.0932,1.4141,0.5823,23.5,2
+Fish,Danio rerio,strong,0.3094,0.814,1.069,0.5712,22.0,2
+Fish,Oncorhynchus mykiss,strong,0.2539,0.8594,1.1196,0.5145,24.5,2
+Fish,Oryzias latipes,medium,0.3735,0.8029,1.0531,0.6277,22.5,2
+Fish,Pimephales promelas,strong,0.4115,0.9055,1.2135,0.6467,22.0,2
+Invertebrates,Daphnia magna,strong,0.2493,0.9625,1.2445,0.5011,23.0,2

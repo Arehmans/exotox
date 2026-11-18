@@ -1,0 +1,75 @@
+organism_group,organism_name,unit,chemical_name,canonical_smiles,scaffold,toxicity_value_raw,mol_weight,model_target,halogen_type,total_halogen_count
+Algae,Chlorella vulgaris,mg/L,"2-(3,6-dihydroxy-2,4,5,7-tetraiodoxanthen-9-yl)benzoic acid, aluminium salt",O=C([O-])c1ccccc1C1c2cc(I)c(O)c(I)c2Oc2c1cc(I)c(O)c2I.O=C([O-])c1ccccc1C1c2cc(I)c(O)c(I)c2Oc2c1cc(I)c(O)c2I.O=C([O-])c1ccccc1C1c2cc(I)c(O)c(I)c2Oc2c1cc(I)c(O)c2I.[Al+3],c1ccc(C2c3ccccc3Oc3ccccc32)cc1.c1ccc(C2c3ccccc3Oc3ccccc32)cc1.c1ccc(C2c3ccccc3Oc3ccccc32)cc1,141.8,2537.6909999999984,4.252762508596124,I_only,12
+Algae,Chlorella vulgaris,mg/L,"disodium 2-(2,4,5,7-tetraiodo-6-oxido-3-oxoxanthen-9-yl)benzoate",O=C([O-])c1ccccc1-c1c2cc(I)c(=O)c(I)c-2oc2c(I)c([O-])c(I)cc12.[Na+].[Na+],O=c1ccc2c(-c3ccccc3)c3ccccc3oc-2c1,200.0,879.859,3.6433830850904227,I_only,4
+Algae,Chlorella vulgaris,mg/L,ammonium iodide,I.N,I.N,1300.0,144.94299999999998,2.0472538937051055,I_only,1
+Algae,Desmodesmus subspicatus,mg/L,iodine,[I],[I],0.13,126.904,5.989531958917493,I_only,1
+Algae,Desmodesmus subspicatus,mg/L,λ¹-copper(1+) iodide,[Cu][I],[Cu][I],0.13,190.45,6.165837624690128,I_only,1
+Algae,Desmodesmus subspicatus,mg/L,"1,3-diiodopropane",ICCCI,ICCCI,9.04,295.88899999999995,4.514960389608895,I_only,2
+Algae,Desmodesmus subspicatus,mg/L,"2-amino-3-[4-(4-hydroxyphenoxy)-3,5-diiodophenyl]propanoic acid",NC(Cc1cc(I)c(Oc2ccc(O)cc2)c(I)c1)C(=O)O,c1ccc(Oc2ccccc2)cc1,20.89,525.0800000000002,4.400287036590778,I_only,2
+Algae,Desmodesmus subspicatus,mg/L,"2-(3,6-dihydroxy-2,4,5,7-tetraiodoxanthen-9-yl)benzoic acid, aluminium salt",O=C([O-])c1ccccc1C1c2cc(I)c(O)c(I)c2Oc2c1cc(I)c(O)c2I.O=C([O-])c1ccccc1C1c2cc(I)c(O)c(I)c2Oc2c1cc(I)c(O)c2I.O=C([O-])c1ccccc1C1c2cc(I)c(O)c(I)c2Oc2c1cc(I)c(O)c2I.[Al+3],c1ccc(C2c3ccccc3Oc3ccccc32)cc1.c1ccc(C2c3ccccc3Oc3ccccc32)cc1.c1ccc(C2c3ccccc3Oc3ccccc32)cc1,51.7,2537.6909999999984,4.69094819634923,I_only,12
+Algae,Desmodesmus subspicatus,mg/L,"3-{2-[2-(2-{[(3-carboxy-2,4,6-triiodophenyl)carbamoyl]methoxy}ethoxy)ethoxy]acetamido}-2,4,6-triiodobenzoic acid",O=C(COCCOCCOCC(=O)Nc1c(I)cc(I)c(C(=O)O)c1I)Nc1c(I)cc(I)c(C(=O)O)c1I,O=C(COCCOCCOCC(=O)Nc1ccccc1)Nc1ccccc1,100.0,1215.815,4.084867497147652,I_only,6
+Algae,Desmodesmus subspicatus,mg/L,ammonium iodide,I.N,I.N,100.0,144.94299999999998,3.161197246011942,I_only,1
+Algae,Desmodesmus subspicatus,mg/L,"Disodium-3,3´-{Oxybis[2,1-ethanediyloxy(1-oxo-2,1-ethanediyl)imino]}bis(2,4,6-triiodobenzoate)",O=C(COCCOCCOCC(=O)Nc1c(I)cc(I)c(C(=O)[O-])c1I)Nc1c(I)cc(I)c(C(=O)[O-])c1I.[Na+].[Na+],O=C(COCCOCCOCC(=O)Nc1ccccc1)Nc1ccccc1,100.0,1259.779,4.100294364563041,I_only,6
+Algae,Desmodesmus subspicatus,mg/L,"5-amino-N1,N3-bis(2,3-dihydroxypropyl)-2,4,6-triiodobenzene-1,3-dicarboxamide",Nc1c(I)c(C(=O)NCC(O)CO)c(I)c(C(=O)NCC(O)CO)c1I,c1ccccc1,100.0,705.0250000000002,3.8482045172318893,I_only,3
+Algae,Desmodesmus subspicatus,mg/L,"3-amino-2,4,6-triiodobenzoic acid",Nc1c(I)cc(I)c(C(=O)O)c1I,c1ccccc1,100.0,514.8260000000001,3.71166047174322,I_only,3
+Algae,Desmodesmus subspicatus,mg/L,"4-Hydroxy-3,5-diiodobenzonitrile",N#Cc1cc(I)c(O)c(I)c1,c1ccccc1,130.0,370.91499999999996,3.455331044476892,I_only,2
+Algae,Desmodesmus subspicatus,mg/L,Iodo(triphenylphosphino)copper,[I][Cu][PH](c1ccccc1)(c1ccccc1)c1ccccc1,c1ccc(P(c2ccccc2)c2ccccc2)cc1,1000.0,453.7500000000001,2.656816638044169,I_only,1
+Algae,Desmodesmus subspicatus,mg/L,"N,N'-bis(2,3-Dihydroxypropyl)-2,4,6-triiodo-5-[(methoxyacetyl)amino]-N-methyl-1,3-benzenedicarboxamide",COCC(=O)Nc1c(I)c(C(=O)NCC(O)CO)c(I)c(C(=O)N(C)CC(O)CO)c1I,c1ccccc1,10000.0,791.115,1.8982396190668442,I_only,3
+Algae,Raphidocelis subcapitata,mg/L,3-iodoprop-2-yn-1-yl butylcarbamate,CCCCNC(=O)OCC#CI,CCCCNC(=O)OCC#CI,0.1,281.09299999999996,6.448850030597743,I_only,1
+Algae,Raphidocelis subcapitata,mg/L,4-[4-(iodooxy)-2-methyl-5-(propan-2-yl)phenyl]-5-methyl-2-(propan-2-yl)phenyl hypoiodite,Cc1cc(OI)c(C(C)C)cc1-c1cc(C(C)C)c(OI)cc1C,c1ccc(-c2ccccc2)cc1,0.5,550.2180000000001,6.041564789592608,I_only,2
+Algae,Raphidocelis subcapitata,mg/L,"(2S)-2-amino-3-[3,5-diiodo-4-(4-methoxyphenoxy)phenyl]propanoic acid",COc1ccc(Oc2c(I)cc(C[C@H](N)C(=O)O)cc2I)cc1,c1ccc(Oc2ccccc2)cc1,0.57,539.1070000000002,5.975800115261388,I_only,2
+Algae,Raphidocelis subcapitata,mg/L,"O-(4-hydroxy-3,5-diiodophenyl)-3,5-diiodotyrosine",N[C@@H](Cc1cc(I)c(Oc2cc(I)c(O)c(I)c2)c(I)c1)C(=O)O,c1ccc(Oc2ccccc2)cc1,1.04,776.8720000000001,5.873316129601229,I_only,4
+Algae,Raphidocelis subcapitata,mg/L,sodium periodate,[Na+].[O-][I+3]([O-])([O-])[O-],[Na+].[O-][I+3]([O-])([O-])[O-],1.1,213.89,5.2887977953163405,I_only,1
+Algae,Raphidocelis subcapitata,mg/L,hydrogen iodide,I,I,1.58,127.91199999999999,4.908254202554071,I_only,1
+Algae,Raphidocelis subcapitata,mg/L,iodomethane,CI,CI,1.69,141.939,4.924215036563739,I_only,1
+Algae,Raphidocelis subcapitata,mg/L,tetrahydroxyiodous acid,[O-][I+](O)(O)(O)(O)O,[O-][I+](O)(O)(O)(O)O,2.5,227.93800000000002,4.9598767246461,I_only,1
+Algae,Raphidocelis subcapitata,mg/L,ethyltriphenylphosphonium iodide,CC[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[I-],c1ccc([PH+](c2ccccc2)c2ccccc2)cc1,16.0,418.258,4.417324273786942,I_only,1
+Algae,Raphidocelis subcapitata,mg/L,caesium iodide,[Cs+].[I-],[Cs+].[I-],100.0,259.80899999999997,3.414654191319907,I_only,1
+Algae,Raphidocelis subcapitata,mg/L,lithium iodide,[I-].[Li+],[I-].[Li+],100.0,133.845,3.126602152041678,I_only,1
+Algae,Skeletonema costatum,mg/L,"4-Iodo-2-[[[[(4-methoxy-6-methyl-1,3,5-triazin-2-yl)amino]carbonyl]amino]sulfonyl]benzoic acid methyl ester sodium salt (1:1)",COC(=O)c1ccc(I)cc1S(=O)(=O)NC(=O)Nc1nc(C)nc(OC)n1.[Na],O=C(Nc1ncncn1)NS(=O)(=O)c1ccccc1,41.0,530.2560000000002,4.111701734664336,I_only,1
+Avian,Coturnix japonica,mg/kg,"4-Hydroxy-3,5-diiodobenzonitrile",N#Cc1cc(I)c(O)c(I)c1,c1ccccc1,2469.0,370.91499999999996,2.1767533068517966,I_only,2
+Avian,Coturnix japonica,mg/kg,"4-Iodo-2-[[[[(4-methoxy-6-methyl-1,3,5-triazin-2-yl)amino]carbonyl]amino]sulfonyl]benzoic acid methyl ester sodium salt (1:1)",COC(=O)c1ccc(I)cc1S(=O)(=O)NC(=O)Nc1nc(C)nc(OC)n1.[Na],O=C(Nc1ncncn1)NS(=O)(=O)c1ccccc1,5040.0,530.2560000000002,2.022055054938546,I_only,1
+Fish,Danio rerio,mg/L,"N-Butylcarbamic acid, 3-Iodo-2-propyn-1-yl ester",CCCCNC(=O)OCC#CI,CCCCNC(=O)OCC#CI,0.418,281.09299999999996,5.827673748822708,I_only,1
+Fish,Danio rerio,mg/L,"3-Amino-alpha-ethyl-2,4,6-triiodobenzenepropanoic acid",CCC(Cc1c(I)cc(I)c(N)c1I)C(=O)O,c1ccccc1,3.471,570.9340000000001,5.216131293011408,I_only,3
+Fish,Danio rerio,mg/L,tetrabutylammonium iodide,CCCC[N+](CCCC)(CCCC)CCCC.[I-],CCCC[N+](CCCC)(CCCC)CCCC.[I-],100.0,369.3749999999999,3.5674674982253305,I_only,1
+Fish,Danio rerio,mg/L,sodium iodide,[I-].[Na+],[I-].[Na+],100.0,149.894,3.1757842491321826,I_only,1
+Fish,Danio rerio,mg/L,"disodium 2-(2,4,5,7-tetraiodo-6-oxido-3-oxoxanthen-9-yl)benzoate",O=C([O-])c1ccccc1-c1c2cc(I)c(=O)c(I)c-2oc2c(I)c([O-])c(I)cc12.[Na+].[Na+],O=c1ccc2c(-c3ccccc3)c3ccccc3oc-2c1,100.0,879.859,3.944413080754404,I_only,4
+Fish,Danio rerio,mg/L,ammonium iodide,I.N,I.N,100.0,144.94299999999998,3.161197246011942,I_only,1
+Fish,Danio rerio,mg/L,potassium iodate,[K+].[O-][I+2]([O-])[O-],[K+].[O-][I+2]([O-])[O-],100.0,213.999,3.3304117439309824,I_only,1
+Fish,Danio rerio,mg/L,potassium iodide,[I-].[K+],[I-].[K+],100.0,166.002,3.220113320472172,I_only,1
+Fish,Danio rerio,mg/L,"2-(3,6-dihydroxy-2,4,5,7-tetraiodoxanthen-9-yl)benzoic acid, aluminium salt",O=C([O-])c1ccccc1C1c2cc(I)c(O)c(I)c2Oc2c1cc(I)c(O)c2I.O=C([O-])c1ccccc1C1c2cc(I)c(O)c(I)c2Oc2c1cc(I)c(O)c2I.O=C([O-])c1ccccc1C1c2cc(I)c(O)c(I)c2Oc2c1cc(I)c(O)c2I.[Al+3],c1ccc(C2c3ccccc3Oc3ccccc32)cc1.c1ccc(C2c3ccccc3Oc3ccccc32)cc1.c1ccc(C2c3ccccc3Oc3ccccc32)cc1,100.0,2537.6909999999984,4.404438739443172,I_only,12
+Fish,Danio rerio,mg/L,caesium iodide,[Cs+].[I-],[Cs+].[I-],100.0,259.80899999999997,3.414654191319907,I_only,1
+Fish,Danio rerio,mg/L,"N,N'-bis(2,3-Dihydroxypropyl)-2,4,6-triiodo-5-[(methoxyacetyl)amino]-N-methyl-1,3-benzenedicarboxamide",COCC(=O)Nc1c(I)c(C(=O)NCC(O)CO)c(I)c(C(=O)N(C)CC(O)CO)c1I,c1ccccc1,10000.0,791.115,1.8982396190668442,I_only,3
+Fish,Oncorhynchus mykiss,mg/L,1-[(Diiodomethyl)sulfonyl]-4-methylbenzene,Cc1ccc(S(=O)(=O)C(I)I)cc1,c1ccccc1,0.13,422.025,6.511394826238856,I_only,2
+Fish,Oncorhynchus mykiss,mg/L,tetrahydroxyiodous acid,[O-][I+](O)(O)(O)(O)O,[O-][I+](O)(O)(O)(O)O,0.17,227.93800000000002,6.127367811939863,I_only,1
+Fish,Oncorhynchus mykiss,mg/L,sodium periodate,[Na+].[O-][I+3]([O-])([O-])[O-],[Na+].[O-][I+3]([O-])([O-])[O-],0.17,213.89,6.099741559096292,I_only,1
+Fish,Oncorhynchus mykiss,mg/L,λ¹-copper(1+) iodide,[Cu][I],[Cu][I],1.67,190.45,5.0570645058493815,I_only,1
+Fish,Oncorhynchus mykiss,mg/L,iodine,[I],[I],1.67,126.904,4.880758840076747,I_only,1
+Fish,Oncorhynchus mykiss,mg/L,iodomethane,CI,CI,5.1,141.939,4.444531565079476,I_only,1
+Fish,Oncorhynchus mykiss,mg/L,1-Iodohexadecane,CCCCCCCCCCCCCCCCI,CCCCCCCCCCCCCCCCI,30.0,352.34399999999994,4.069845625657181,I_only,1
+Fish,Oncorhynchus mykiss,mg/L,"4-Iodo-2-[[[[(4-methoxy-6-methyl-1,3,5-triazin-2-yl)amino]carbonyl]amino]sulfonyl]benzoic acid methyl ester sodium salt (1:1)",COC(=O)c1ccc(I)cc1S(=O)(=O)NC(=O)Nc1nc(C)nc(OC)n1.[Na],O=C(Nc1ncncn1)NS(=O)(=O)c1ccccc1,88.1,530.2560000000002,3.7795096829720234,I_only,1
+Fish,Oncorhynchus mykiss,mg/L,sodium iodate,[Na+].[O-][I+2]([O-])[O-],[Na+].[O-][I+2]([O-])[O-],350.0,197.891,2.7523579987736664,I_only,1
+Fish,Oncorhynchus mykiss,mg/L,Potassium iodide,[I-].[K+],[I-].[K+],2190.0,166.002,1.8796692056320536,I_only,1
+Fish,Oncorhynchus mykiss,mg/L,ammonium iodide,I.N,I.N,3780.0,144.94299999999998,1.5837054461747169,I_only,1
+Fish,Oncorhynchus mykiss,mg/L,sodium iodide,[I-].[Na+],[I-].[Na+],4500.0,149.894,1.5225717353568389,I_only,1
+Fish,Oryzias latipes,mg/L,Iodophenylmercury,[I][Hg][c]1ccccc1,c1ccccc1,0.015,404.6000000000001,7.430934619379105,I_only,1
+Fish,Oryzias latipes,mg/L,"disodium 2-(2,4,5,7-tetraiodo-6-oxido-3-oxoxanthen-9-yl)benzoate",O=C([O-])c1ccccc1-c1c2cc(I)c(=O)c(I)c-2oc2c(I)c([O-])c(I)cc12.[Na+].[Na+],O=c1ccc2c(-c3ccccc3)c3ccccc3oc-2c1,900.0,879.859,2.9901705713150792,I_only,4
+Fish,Oryzias latipes,mg/L,"3',6'-Dihydroxy-2',4',5',7'-tetraiodospiro[isobenzofuran-1(3H),9'-[9H]xanthen]-3-one, Disodium salt",O=C1OC2(c3ccccc31)c1cc(I)c(O)c(I)c1Oc1c2cc(I)c(O)c1I.[Na].[Na],O=C1OC2(c3ccccc3Oc3ccccc32)c2ccccc21,1100.0,881.8750000000001,2.904014345940198,I_only,4
+Fish,Pimephales promelas,mg/L,silver(1+) iodide,[Ag][I],[Ag][I],0.016,234.772,7.166526317029498,I_only,1
+Fish,Pimephales promelas,mg/L,"N-Butylcarbamic acid, 3-Iodo-2-propyn-1-yl ester",CCCCNC(=O)OCC#CI,CCCCNC(=O)OCC#CI,0.2,281.09299999999996,6.147820034933762,I_only,1
+Fish,Pimephales promelas,mg/L,"(2-Butyl-3-benzofuranyl)[4-[2-(diethylamino)ethoxy]-3,5-diiodophenyl]methanone",CCCCc1oc2ccccc2c1C(=O)c1cc(I)c(OCCN(CC)CC)c(I)c1,O=C(c1ccccc1)c1coc2ccccc12,0.526,645.3190000000002,6.088788707988377,I_only,2
+Fish,Pimephales promelas,mg/L,"2,4,6-Triiodophenol",Oc1c(I)cc(I)cc1I,c1ccccc1,1.21,471.801,5.5909734867376235,I_only,3
+Fish,Pimephales promelas,mg/L,Iodoform,IC(I)I,IC(I)I,2.92,393.731,5.129816758411464,I_only,3
+Fish,Pimephales promelas,mg/L,"4-Hydroxy-3,5-diiodobenzonitrile",N#Cc1cc(I)c(O)c(I)c1,c1ccccc1,6.8,370.91499999999996,4.736765484077493,I_only,2
+Fish,Pimephales promelas,mg/L,"N,N,N-Trimethylbenzenaminium iodide (1:1)",C[N+](C)(C)c1ccccc1.[I-],c1ccccc1,243.0,263.12199999999996,3.0345508879771628,I_only,1
+Invertebrates,Americamysis bahia,mg/L,"N-Butylcarbamic acid, 3-Iodo-2-propyn-1-yl ester",CCCCNC(=O)OCC#CI,CCCCNC(=O)OCC#CI,0.0898,281.09299999999996,6.495573693930439,I_only,1
+Invertebrates,Americamysis bahia,mg/L,"4-Iodo-2-[[[[(4-methoxy-6-methyl-1,3,5-triazin-2-yl)amino]carbonyl]amino]sulfonyl]benzoic acid methyl ester sodium salt (1:1)",COC(=O)c1ccc(I)cc1S(=O)(=O)NC(=O)Nc1nc(C)nc(OC)n1.[Na],O=C(Nc1ncncn1)NS(=O)(=O)c1ccccc1,100.0,530.2560000000002,3.724485591384071,I_only,1
+Invertebrates,Daphnia magna,mg/L,silver(1+) iodide,[Ag][I],[Ag][I],0.01,234.772,7.370646299685423,I_only,1
+Invertebrates,Daphnia magna,mg/L,sodium iodide,[I-].[Na+],[I-].[Na+],0.43,149.894,5.542315793552596,I_only,1
+Invertebrates,Daphnia magna,mg/L,iodine,[I],[I],0.59,126.904,5.3326232995821865,I_only,1
+Invertebrates,Daphnia magna,mg/L,λ¹-copper(1+) iodide,[Cu][I],[Cu][I],0.59,190.45,5.508928965354821,I_only,1
+Invertebrates,Daphnia magna,mg/L,sodium iodate,[Na+].[O-][I+2]([O-])[O-],[Na+].[O-][I+2]([O-])[O-],58.5,197.891,3.5292701770417616,I_only,1
+Terrestrial insects and arthropods,Drosophila melanogaster,mg/kg,1-Iodopropane,CCCI,CCCI,0.4,169.993,5.628371046968168,I_only,1
+Terrestrial insects and arthropods,Drosophila melanogaster,mg/kg,2-Iodobutane,CCC(C)I,CCC(C)I,2.08,184.01999999999998,4.946801691403367,I_only,1
+Terrestrial insects and arthropods,Folsomia candida,mg/kg,"N-Butylcarbamic acid, 3-Iodo-2-propyn-1-yl ester",CCCCNC(=O)OCC#CI,CCCCNC(=O)OCC#CI,12.17,281.09299999999996,4.363559452367678,I_only,1
+Terrestrial insects and arthropods,Folsomia candida,mg/kg,silver(1+) iodide,[Ag][I],[Ag][I],284.0,234.772,2.917327959638385,I_only,1

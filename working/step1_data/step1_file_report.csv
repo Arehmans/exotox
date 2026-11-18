@@ -1,0 +1,22 @@
+file,status,rows,organism_group,organism_name,unit,smiles_col,toxicity_col
+C:\Users\lab\Desktop\ecotoxicity\Ecotoxicity ML datasets\Algae\Chlorella vulgaris.xlsx,ok,408,Algae,Chlorella vulgaris,mg/L,Smiles,Extracted_mgL
+C:\Users\lab\Desktop\ecotoxicity\Ecotoxicity ML datasets\Algae\Desmodes subcapitus.xlsx,ok,1613,Algae,Desmodesmus subspicatus,mg/L,Smiles,Extracted_mgL
+C:\Users\lab\Desktop\ecotoxicity\Ecotoxicity ML datasets\Algae\Raphidocelis subcapita.xlsx,ok,3167,Algae,Raphidocelis subcapitata,mg/L,Smiles,Extracted_mgL
+C:\Users\lab\Desktop\ecotoxicity\Ecotoxicity ML datasets\Algae\Skeletonema costatum.xlsx,ok,514,Algae,Skeletonema costatum,mg/L,Smiles,Extracted_mgL
+C:\Users\lab\Desktop\ecotoxicity\Ecotoxicity ML datasets\Avian\Anas platyrynchus.xlsx,ok,78,Avian,Anas platyrhynchos,mg/kg,Smiles,Extracted_mg/kg
+C:\Users\lab\Desktop\ecotoxicity\Ecotoxicity ML datasets\Avian\Colinus virginianus.xlsx,ok,82,Avian,Colinus virginianus,mg/kg,Smiles,Extracted_mg/kg
+C:\Users\lab\Desktop\ecotoxicity\Ecotoxicity ML datasets\Avian\Cortunix japonica.xlsx,ok,136,Avian,Coturnix japonica,mg/kg,Smiles,Extracted_mg/kg
+C:\Users\lab\Desktop\ecotoxicity\Ecotoxicity ML datasets\Avian\Galus Galus.xlsx,ok,171,Avian,Gallus gallus,mg/kg,Smiles,Extracted_mg/kg
+C:\Users\lab\Desktop\ecotoxicity\Ecotoxicity ML datasets\Fish\Danio rerio.xlsx,ok,2484,Fish,Danio rerio,mg/L,Smiles,Extracted_mgL
+C:\Users\lab\Desktop\ecotoxicity\Ecotoxicity ML datasets\Fish\Oncorhynchus mykiss.xlsx,ok,2135,Fish,Oncorhynchus mykiss,mg/L,Smiles,Extracted_mgL
+C:\Users\lab\Desktop\ecotoxicity\Ecotoxicity ML datasets\Fish\Oryzias latipes.xlsx,ok,862,Fish,Oryzias latipes,mg/L,Smiles,Extracted_mgL
+C:\Users\lab\Desktop\ecotoxicity\Ecotoxicity ML datasets\Fish\Pimephales promelas.xlsx,ok,1582,Fish,Pimephales promelas,mg/L,Smiles,Extracted_mgL
+C:\Users\lab\Desktop\ecotoxicity\Ecotoxicity ML datasets\Invertebrates\Americamycis bahia.xlsx,ok,459,Invertebrates,Americamysis bahia,mg/L,Smiles,Extracted_mgL
+C:\Users\lab\Desktop\ecotoxicity\Ecotoxicity ML datasets\Invertebrates\Ceridaphnia dubia.xlsx,ok,262,Invertebrates,Ceriodaphnia dubia,mg/L,Smiles,Extracted_mgL
+C:\Users\lab\Desktop\ecotoxicity\Ecotoxicity ML datasets\Invertebrates\Chironomus riparious.xlsx,ok,117,Invertebrates,Chironomus riparius,mg/L,Smiles,Extracted_mgL
+C:\Users\lab\Desktop\ecotoxicity\Ecotoxicity ML datasets\Invertebrates\Daphnia magna.xlsx,ok,1000,Invertebrates,Daphnia magna,mg/L,Smiles,Extracted_mgL
+C:\Users\lab\Desktop\ecotoxicity\Ecotoxicity ML datasets\Terrestrial insects and arthropods\Apis mellifera.xlsx,ok,172,Terrestrial insects and arthropods,Apis mellifera,mg/kg,Smiles,Extracted_mg/kg
+C:\Users\lab\Desktop\ecotoxicity\Ecotoxicity ML datasets\Terrestrial insects and arthropods\Drosophila melanogaster.xlsx,ok,47,Terrestrial insects and arthropods,Drosophila melanogaster,mg/kg,Smiles,Extracted_mg/kg
+C:\Users\lab\Desktop\ecotoxicity\Ecotoxicity ML datasets\Terrestrial insects and arthropods\Folsomia candida.xlsx,ok,107,Terrestrial insects and arthropods,Folsomia candida,mg/kg,Smiles,Extracted_mg/kg
+C:\Users\lab\Desktop\ecotoxicity\Ecotoxicity ML datasets\Terrestrial insects and arthropods\Tetrarhyncus urticae.xlsx,ok,58,Terrestrial insects and arthropods,Tetranychus urticae,mg/kg,Smiles,Extracted_mg/kg
+C:\Users\lab\Desktop\ecotoxicity\Ecotoxicity ML datasets\Terrestrial insects and arthropods\Trilobium castaneum.xlsx,ok,34,Terrestrial insects and arthropods,Tribolium castaneum,mg/kg,Smiles,Extracted_mg/kg

@@ -1,0 +1,475 @@
+{
+  "organism__Danio rerio||RandomForest": {
+    "n_estimators": 800,
+    "max_depth": 30,
+    "min_samples_leaf": 1,
+    "min_samples_split": 2,
+    "max_features": 0.3
+  },
+  "organism__Danio rerio||ExtraTrees": {
+    "n_estimators": 800,
+    "min_samples_leaf": 2,
+    "max_features": 0.3
+  },
+  "organism__Danio rerio||HistGB": {
+    "max_iter": 550,
+    "learning_rate": 0.010525511319998111,
+    "max_leaf_nodes": 19,
+    "min_samples_leaf": 35,
+    "l2_regularization": 0.010949793575544958
+  },
+  "organism__Danio rerio||XGBoost": {
+    "n_estimators": 600,
+    "max_depth": 10,
+    "learning_rate": 0.016355856001554044,
+    "subsample": 0.8447727572469904,
+    "colsample_bytree": 0.5039588705048988,
+    "min_child_weight": 4,
+    "reg_lambda": 1.4348857328159053
+  },
+  "organism__Danio rerio||LightGBM": {
+    "n_estimators": 500,
+    "learning_rate": 0.010770091949343873,
+    "num_leaves": 69,
+    "min_child_samples": 27,
+    "subsample": 0.8848078166931932,
+    "colsample_bytree": 0.4013984223896793,
+    "reg_lambda": 3.8968264712590246
+  },
+  "organism__Danio rerio||CatBoost": {
+    "iterations": 800,
+    "learning_rate": 0.0385232334509423,
+    "depth": 8,
+    "l2_leaf_reg": 1.2509786287374178
+  },
+  "organism__Daphnia magna||RandomForest": {
+    "n_estimators": 800,
+    "max_depth": 20,
+    "min_samples_leaf": 1,
+    "min_samples_split": 9,
+    "max_features": 0.3
+  },
+  "organism__Daphnia magna||ExtraTrees": {
+    "n_estimators": 300,
+    "min_samples_leaf": 4,
+    "max_features": 0.3
+  },
+  "organism__Daphnia magna||HistGB": {
+    "max_iter": 150,
+    "learning_rate": 0.018362365704318935,
+    "max_leaf_nodes": 47,
+    "min_samples_leaf": 40,
+    "l2_regularization": 0.7959927690093649
+  },
+  "organism__Daphnia magna||XGBoost": {
+    "n_estimators": 700,
+    "max_depth": 6,
+    "learning_rate": 0.01281753560425409,
+    "subsample": 0.9785599612791331,
+    "colsample_bytree": 0.5415273875237331,
+    "min_child_weight": 1,
+    "reg_lambda": 0.006165140459556444
+  },
+  "organism__Daphnia magna||LightGBM": {
+    "n_estimators": 200,
+    "learning_rate": 0.017360250937067452,
+    "num_leaves": 23,
+    "min_child_samples": 43,
+    "subsample": 0.8106987825987947,
+    "colsample_bytree": 0.6577960883917449,
+    "reg_lambda": 2.291103047332339
+  },
+  "organism__Daphnia magna||CatBoost": {
+    "iterations": 800,
+    "learning_rate": 0.023251369607550903,
+    "depth": 9,
+    "l2_leaf_reg": 3.877671167781913
+  },
+  "organism__Desmodesmus subspicatus||RandomForest": {
+    "n_estimators": 700,
+    "max_depth": null,
+    "min_samples_leaf": 5,
+    "min_samples_split": 5,
+    "max_features": 0.3
+  },
+  "organism__Desmodesmus subspicatus||ExtraTrees": {
+    "n_estimators": 500,
+    "min_samples_leaf": 5,
+    "max_features": 0.3
+  },
+  "organism__Desmodesmus subspicatus||HistGB": {
+    "max_iter": 250,
+    "learning_rate": 0.01451038537014576,
+    "max_leaf_nodes": 48,
+    "min_samples_leaf": 35,
+    "l2_regularization": 0.012107726041702904
+  },
+  "organism__Desmodesmus subspicatus||XGBoost": {
+    "n_estimators": 400,
+    "max_depth": 7,
+    "learning_rate": 0.013303779598346006,
+    "subsample": 0.845047088678078,
+    "colsample_bytree": 0.7212480539697342,
+    "min_child_weight": 8,
+    "reg_lambda": 0.002032482872712943
+  },
+  "organism__Desmodesmus subspicatus||LightGBM": {
+    "n_estimators": 400,
+    "learning_rate": 0.010974584297908525,
+    "num_leaves": 51,
+    "min_child_samples": 12,
+    "subsample": 0.9365987785802175,
+    "colsample_bytree": 0.6763366110207392,
+    "reg_lambda": 0.4697255073740023
+  },
+  "organism__Desmodesmus subspicatus||CatBoost": {
+    "iterations": 700,
+    "learning_rate": 0.010259228038312702,
+    "depth": 8,
+    "l2_leaf_reg": 1.0623866664632944
+  },
+  "organism__Oncorhynchus mykiss||RandomForest": {
+    "n_estimators": 500,
+    "max_depth": 30,
+    "min_samples_leaf": 1,
+    "min_samples_split": 4,
+    "max_features": 0.3
+  },
+  "organism__Oncorhynchus mykiss||ExtraTrees": {
+    "n_estimators": 600,
+    "min_samples_leaf": 2,
+    "max_features": 0.3
+  },
+  "organism__Oncorhynchus mykiss||HistGB": {
+    "max_iter": 200,
+    "learning_rate": 0.01914300548976496,
+    "max_leaf_nodes": 20,
+    "min_samples_leaf": 40,
+    "l2_regularization": 0.03222724124228901
+  },
+  "organism__Oncorhynchus mykiss||XGBoost": {
+    "n_estimators": 200,
+    "max_depth": 10,
+    "learning_rate": 0.020536381883239023,
+    "subsample": 0.8600309920794306,
+    "colsample_bytree": 0.5429892169670588,
+    "min_child_weight": 9,
+    "reg_lambda": 0.024734049052518744
+  },
+  "organism__Oncorhynchus mykiss||LightGBM": {
+    "n_estimators": 300,
+    "learning_rate": 0.017322667470546258,
+    "num_leaves": 49,
+    "min_child_samples": 29,
+    "subsample": 0.7727780074568463,
+    "colsample_bytree": 0.5747374841188252,
+    "reg_lambda": 0.2801635158716261
+  },
+  "organism__Oncorhynchus mykiss||CatBoost": {
+    "iterations": 700,
+    "learning_rate": 0.019513727900512496,
+    "depth": 8,
+    "l2_leaf_reg": 1.079664879617705
+  },
+  "organism__Oryzias latipes||RandomForest": {
+    "n_estimators": 500,
+    "max_depth": null,
+    "min_samples_leaf": 2,
+    "min_samples_split": 8,
+    "max_features": 0.3
+  },
+  "organism__Oryzias latipes||ExtraTrees": {
+    "n_estimators": 800,
+    "min_samples_leaf": 2,
+    "max_features": 0.3
+  },
+  "organism__Oryzias latipes||HistGB": {
+    "max_iter": 200,
+    "learning_rate": 0.02061891153168556,
+    "max_leaf_nodes": 18,
+    "min_samples_leaf": 28,
+    "l2_regularization": 0.003937369972681807
+  },
+  "organism__Oryzias latipes||XGBoost": {
+    "n_estimators": 400,
+    "max_depth": 9,
+    "learning_rate": 0.014019185266710027,
+    "subsample": 0.9642862849970913,
+    "colsample_bytree": 0.42178792520532393,
+    "min_child_weight": 10,
+    "reg_lambda": 3.4001006876319337
+  },
+  "organism__Oryzias latipes||LightGBM": {
+    "n_estimators": 200,
+    "learning_rate": 0.02076931071248685,
+    "num_leaves": 32,
+    "min_child_samples": 8,
+    "subsample": 0.8871320161119631,
+    "colsample_bytree": 0.6114053538990076,
+    "reg_lambda": 5.245648510755875
+  },
+  "organism__Oryzias latipes||CatBoost": {
+    "iterations": 400,
+    "learning_rate": 0.022657079352489316,
+    "depth": 8,
+    "l2_leaf_reg": 1.880041450654989
+  },
+  "organism__Pimephales promelas||RandomForest": {
+    "n_estimators": 300,
+    "max_depth": 20,
+    "min_samples_leaf": 1,
+    "min_samples_split": 3,
+    "max_features": 0.3
+  },
+  "organism__Pimephales promelas||ExtraTrees": {
+    "n_estimators": 800,
+    "min_samples_leaf": 2,
+    "max_features": 0.3
+  },
+  "organism__Pimephales promelas||HistGB": {
+    "max_iter": 500,
+    "learning_rate": 0.015367233136030755,
+    "max_leaf_nodes": 35,
+    "min_samples_leaf": 38,
+    "l2_regularization": 0.8450974770287705
+  },
+  "organism__Pimephales promelas||XGBoost": {
+    "n_estimators": 700,
+    "max_depth": 7,
+    "learning_rate": 0.011158568343756035,
+    "subsample": 0.8355257101424357,
+    "colsample_bytree": 0.4584160938705372,
+    "min_child_weight": 2,
+    "reg_lambda": 0.20313585209749943
+  },
+  "organism__Pimephales promelas||LightGBM": {
+    "n_estimators": 200,
+    "learning_rate": 0.025597868146034708,
+    "num_leaves": 21,
+    "min_child_samples": 12,
+    "subsample": 0.871478478485918,
+    "colsample_bytree": 0.5466998277791911,
+    "reg_lambda": 2.9809081755240485
+  },
+  "organism__Pimephales promelas||CatBoost": {
+    "iterations": 400,
+    "learning_rate": 0.021016985955301756,
+    "depth": 9,
+    "l2_leaf_reg": 2.988165258535896
+  },
+  "organism__Raphidocelis subcapitata||RandomForest": {
+    "n_estimators": 600,
+    "max_depth": 30,
+    "min_samples_leaf": 1,
+    "min_samples_split": 4,
+    "max_features": 0.3
+  },
+  "organism__Raphidocelis subcapitata||ExtraTrees": {
+    "n_estimators": 500,
+    "min_samples_leaf": 3,
+    "max_features": 0.3
+  },
+  "organism__Raphidocelis subcapitata||HistGB": {
+    "max_iter": 450,
+    "learning_rate": 0.011565638266540015,
+    "max_leaf_nodes": 22,
+    "min_samples_leaf": 38,
+    "l2_regularization": 0.09315346095363597
+  },
+  "organism__Raphidocelis subcapitata||XGBoost": {
+    "n_estimators": 800,
+    "max_depth": 7,
+    "learning_rate": 0.01484993596558264,
+    "subsample": 0.902524692926056,
+    "colsample_bytree": 0.7169191261920572,
+    "min_child_weight": 4,
+    "reg_lambda": 0.19465372859465496
+  },
+  "organism__Raphidocelis subcapitata||LightGBM": {
+    "n_estimators": 300,
+    "learning_rate": 0.011384348748749211,
+    "num_leaves": 40,
+    "min_child_samples": 9,
+    "subsample": 0.6677724748044974,
+    "colsample_bytree": 0.48598173275185796,
+    "reg_lambda": 1.3537351634314956
+  },
+  "organism__Raphidocelis subcapitata||CatBoost": {
+    "iterations": 500,
+    "learning_rate": 0.05279510632822823,
+    "depth": 9,
+    "l2_leaf_reg": 9.613502155588808
+  },
+  "organism__Skeletonema costatum||RandomForest": {
+    "n_estimators": 200,
+    "max_depth": null,
+    "min_samples_leaf": 4,
+    "min_samples_split": 3,
+    "max_features": 0.3
+  },
+  "organism__Skeletonema costatum||ExtraTrees": {
+    "n_estimators": 500,
+    "min_samples_leaf": 2,
+    "max_features": "sqrt"
+  },
+  "organism__Skeletonema costatum||HistGB": {
+    "max_iter": 250,
+    "learning_rate": 0.01774397523550878,
+    "max_leaf_nodes": 26,
+    "min_samples_leaf": 33,
+    "l2_regularization": 0.28813182386095404
+  },
+  "organism__Skeletonema costatum||XGBoost": {
+    "n_estimators": 300,
+    "max_depth": 3,
+    "learning_rate": 0.010220830324642811,
+    "subsample": 0.6572558222596566,
+    "colsample_bytree": 0.4546722403138635,
+    "min_child_weight": 5,
+    "reg_lambda": 0.6008853390385843
+  },
+  "organism__Skeletonema costatum||LightGBM": {
+    "n_estimators": 200,
+    "learning_rate": 0.017987863473362915,
+    "num_leaves": 20,
+    "min_child_samples": 19,
+    "subsample": 0.7554709158757928,
+    "colsample_bytree": 0.5628094190643376,
+    "reg_lambda": 2.0651425578959257
+  },
+  "organism__Skeletonema costatum||CatBoost": {
+    "iterations": 500,
+    "learning_rate": 0.011286401253166059,
+    "depth": 7,
+    "l2_leaf_reg": 1.3542110973331893
+  },
+  "group__Algae__mg/L||RandomForest": {
+    "n_estimators": 700,
+    "max_depth": 20,
+    "min_samples_leaf": 3,
+    "min_samples_split": 5,
+    "max_features": 0.3
+  },
+  "group__Algae__mg/L||ExtraTrees": {
+    "n_estimators": 700,
+    "min_samples_leaf": 3,
+    "max_features": 0.3
+  },
+  "group__Algae__mg/L||HistGB": {
+    "max_iter": 500,
+    "learning_rate": 0.018187859051288217,
+    "max_leaf_nodes": 40,
+    "min_samples_leaf": 26,
+    "l2_regularization": 0.001378323745500718
+  },
+  "group__Algae__mg/L||XGBoost": {
+    "n_estimators": 800,
+    "max_depth": 9,
+    "learning_rate": 0.011121395943573927,
+    "subsample": 0.8789585121187579,
+    "colsample_bytree": 0.5356901064187739,
+    "min_child_weight": 4,
+    "reg_lambda": 8.653101085951171
+  },
+  "group__Algae__mg/L||LightGBM": {
+    "n_estimators": 600,
+    "learning_rate": 0.011023106953758471,
+    "num_leaves": 59,
+    "min_child_samples": 9,
+    "subsample": 0.8438784839448039,
+    "colsample_bytree": 0.43185725029241867,
+    "reg_lambda": 0.4124391582678146
+  },
+  "group__Algae__mg/L||CatBoost": {
+    "iterations": 500,
+    "learning_rate": 0.06050450367746975,
+    "depth": 9,
+    "l2_leaf_reg": 8.76153654113618
+  },
+  "group__Fish__mg/L||RandomForest": {
+    "n_estimators": 600,
+    "max_depth": null,
+    "min_samples_leaf": 4,
+    "min_samples_split": 4,
+    "max_features": 0.3
+  },
+  "group__Fish__mg/L||ExtraTrees": {
+    "n_estimators": 700,
+    "min_samples_leaf": 2,
+    "max_features": 0.3
+  },
+  "group__Fish__mg/L||HistGB": {
+    "max_iter": 350,
+    "learning_rate": 0.02489737527712841,
+    "max_leaf_nodes": 41,
+    "min_samples_leaf": 29,
+    "l2_regularization": 0.12165960285543827
+  },
+  "group__Fish__mg/L||XGBoost": {
+    "n_estimators": 200,
+    "max_depth": 8,
+    "learning_rate": 0.02712117295171481,
+    "subsample": 0.952701469955317,
+    "colsample_bytree": 0.49630749687815756,
+    "min_child_weight": 2,
+    "reg_lambda": 0.21671523987891123
+  },
+  "group__Fish__mg/L||LightGBM": {
+    "n_estimators": 300,
+    "learning_rate": 0.019563424650277342,
+    "num_leaves": 69,
+    "min_child_samples": 9,
+    "subsample": 0.8113007393351964,
+    "colsample_bytree": 0.4649601188487011,
+    "reg_lambda": 4.430727438269542
+  },
+  "group__Fish__mg/L||CatBoost": {
+    "iterations": 900,
+    "learning_rate": 0.02853653845534991,
+    "depth": 9,
+    "l2_leaf_reg": 5.60845965803377
+  },
+  "group__Invertebrates__mg/L||RandomForest": {
+    "n_estimators": 600,
+    "max_depth": 20,
+    "min_samples_leaf": 1,
+    "min_samples_split": 3,
+    "max_features": 0.3
+  },
+  "group__Invertebrates__mg/L||ExtraTrees": {
+    "n_estimators": 200,
+    "min_samples_leaf": 2,
+    "max_features": 0.3
+  },
+  "group__Invertebrates__mg/L||HistGB": {
+    "max_iter": 200,
+    "learning_rate": 0.015247803801152917,
+    "max_leaf_nodes": 47,
+    "min_samples_leaf": 37,
+    "l2_regularization": 0.2293246794049396
+  },
+  "group__Invertebrates__mg/L||XGBoost": {
+    "n_estimators": 200,
+    "max_depth": 9,
+    "learning_rate": 0.014435831378154443,
+    "subsample": 0.9659492213812764,
+    "colsample_bytree": 0.5844366375792742,
+    "min_child_weight": 4,
+    "reg_lambda": 3.382557198918559
+  },
+  "group__Invertebrates__mg/L||LightGBM": {
+    "n_estimators": 300,
+    "learning_rate": 0.014079430976368126,
+    "num_leaves": 70,
+    "min_child_samples": 5,
+    "subsample": 0.7906006540591828,
+    "colsample_bytree": 0.5070076922774148,
+    "reg_lambda": 3.163734602994008
+  },
+  "group__Invertebrates__mg/L||CatBoost": {
+    "iterations": 900,
+    "learning_rate": 0.012958468168544736,
+    "depth": 7,
+    "l2_leaf_reg": 6.536040281223314
+  }
+}

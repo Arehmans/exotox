@@ -1,0 +1,47 @@
+PHASE 3 ECOTOXICITY MODELLING - RESULTS SUMMARY
+======================================================================
+Generated : 2026-11-17 22:53:57 UTC
+Profile   : standard  (5 outer splits, 3 inner folds)
+Data      : 15478 records, 8112 chemicals, 4840 scaffolds
+
+1. FEATURES (suggestion 2)
+   Best feature set      : ext_morgan1024 (1190 features)
+   Mean Spearman         : 0.6305
+   Mean R2               : 0.3739
+   Extended descriptors kept after cleaning: 166
+
+2. TUNING (suggestion 1)
+   Tuned parameter sets saved: 66
+   Model families tuned      : RandomForest, ExtraTrees, HistGB, XGBoost, LightGBM, CatBoost
+
+3. SPECIES-AWARE MODELLING (suggestion 3)
+   Best overall strategy : hierarchical_residual (RandomForest)
+   Mean R2               : 0.4073
+   Mean Spearman         : 0.6524
+
+4. ENSEMBLE (suggestion 7)
+   Best ensemble/single  : simple_average (R2 = 0.3971)
+
+5. RELIABILITY (suggestion 8)
+   Tanimoto verified against RDKit : max difference 0.00e+00
+   Nominal interval coverage       : 90%
+   Empirical coverage (standard)   : 90.3%
+   Empirical coverage (normalised) : 90.5%
+
+6. HALOGENATION (Phase 2 inference)
+   Algae                                 102 matched pairs, median difference +0.651, p = 1.06e-05
+   Avian                                   7 matched pairs, median difference +0.067, p = nan
+   Fish                                  172 matched pairs, median difference +0.654, p = 2.62e-11
+   Invertebrates                          38 matched pairs, median difference +0.636, p = 0.0011
+   Terrestrial insects and arthropods      6 matched pairs, median difference +0.286, p = nan
+
+7. NEURAL BASELINE (suggestion 4)
+   Multitask network mean R2 : 0.3043
+   Evaluated on 2 split(s) per organism
+
+8. EXTERNAL VALIDATION (suggestions 9, 10)
+   Status: machinery ready, awaiting the compiled datasets
+
+======================================================================
+Tables are in step12_final_tables_figures/. The exact configuration that produced
+these numbers is recorded in run_manifest.json.

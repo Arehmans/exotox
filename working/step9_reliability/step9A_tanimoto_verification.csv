@@ -1,0 +1,2 @@
+n_query_compounds,n_reference_compounds,max_absolute_difference,correlation_with_rdkit,verdict
+200,200,0.0,1.0,identical to RDKit within floating-point tolerance

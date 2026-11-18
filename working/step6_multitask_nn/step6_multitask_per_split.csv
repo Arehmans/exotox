@@ -1,0 +1,17 @@
+organism_group,organism_name,dataset_size_category,organism_rows,model,strategy,feature_set,split_id,train_chemicals,validation_chemicals,epochs_run,validation_masked_mse,test_rows,test_r2,test_mae,test_rmse,test_spearman
+Fish,Danio rerio,strong,2482,MultitaskNN,multitask_nn,ext_morgan1024,1,6317,861,22,0.6925,412,0.2992,0.8193,1.0645,0.5736
+Fish,Danio rerio,strong,2482,MultitaskNN,multitask_nn,ext_morgan1024,2,6375,823,22,0.6067,429,0.3197,0.8087,1.0734,0.5689
+Invertebrates,Daphnia magna,strong,1000,MultitaskNN,multitask_nn,ext_morgan1024,1,5158,895,24,0.7065,379,0.1715,1.007,1.2818,0.3962
+Invertebrates,Daphnia magna,strong,1000,MultitaskNN,multitask_nn,ext_morgan1024,2,6571,925,22,0.6917,150,0.3271,0.9179,1.2071,0.606
+Algae,Desmodesmus subspicatus,strong,1612,MultitaskNN,multitask_nn,ext_morgan1024,1,6429,907,26,0.7225,274,0.2742,0.8188,1.109,0.5926
+Algae,Desmodesmus subspicatus,strong,1612,MultitaskNN,multitask_nn,ext_morgan1024,2,6519,944,22,0.6949,253,0.2207,0.7943,1.0971,0.5167
+Fish,Oncorhynchus mykiss,strong,2132,MultitaskNN,multitask_nn,ext_morgan1024,1,6443,874,28,0.7523,341,0.2055,0.859,1.117,0.4765
+Fish,Oncorhynchus mykiss,strong,2132,MultitaskNN,multitask_nn,ext_morgan1024,2,5015,2218,21,0.658,355,0.3024,0.8599,1.1222,0.5525
+Fish,Oryzias latipes,medium,862,MultitaskNN,multitask_nn,ext_morgan1024,1,4994,2337,23,0.6408,142,0.366,0.7859,1.0565,0.612
+Fish,Oryzias latipes,medium,862,MultitaskNN,multitask_nn,ext_morgan1024,2,6593,990,22,0.6999,118,0.381,0.82,1.0497,0.6435
+Fish,Pimephales promelas,strong,1581,MultitaskNN,multitask_nn,ext_morgan1024,1,6165,1016,22,0.6614,275,0.4319,0.8964,1.2313,0.6549
+Fish,Pimephales promelas,strong,1581,MultitaskNN,multitask_nn,ext_morgan1024,2,6292,1036,22,0.6776,273,0.3911,0.9147,1.1958,0.6386
+Algae,Raphidocelis subcapitata,strong,3165,MultitaskNN,multitask_nn,ext_morgan1024,1,6310,815,22,0.8013,529,0.2456,0.8055,1.0822,0.5493
+Algae,Raphidocelis subcapitata,strong,3165,MultitaskNN,multitask_nn,ext_morgan1024,2,6086,936,23,0.7346,590,0.2476,0.8195,1.0529,0.5144
+Algae,Skeletonema costatum,medium,514,MultitaskNN,multitask_nn,ext_morgan1024,1,6628,934,25,0.7662,90,0.3466,1.167,1.5079,0.5834
+Algae,Skeletonema costatum,medium,514,MultitaskNN,multitask_nn,ext_morgan1024,2,5440,919,22,0.6906,155,0.3382,1.0193,1.3203,0.5813

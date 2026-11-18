@@ -1,0 +1,9 @@
+dataset_size_category,strategy,mean_r2,mean_spearman,mean_mae,n_organisms
+medium,species_aware_pooled,0.411,0.6722,0.9004,2
+medium,hierarchical_residual,0.4012,0.6678,0.8917,2
+medium,independent_organism,0.3994,0.651,0.8949,2
+medium,group_pooled,0.3583,0.6458,0.956,2
+strong,hierarchical_residual,0.4051,0.6462,0.7481,6
+strong,species_aware_pooled,0.3983,0.6435,0.7587,6
+strong,independent_organism,0.3854,0.6308,0.7647,6
+strong,group_pooled,0.3735,0.6367,0.7763,6

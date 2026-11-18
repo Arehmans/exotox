@@ -1,0 +1,3 @@
+chemical_name,smiles,organism_name,unit,observed_toxicity_value,software,predicted_toxicity_value,software_version,notes
+example_compound_1,CCO,Danio rerio,mg/L,100.0,ECOSAR,85.0,2.2,baseline narcosis class
+example_compound_1,CCO,Danio rerio,mg/L,100.0,T.E.S.T,112.0,5.1.2,consensus method

@@ -1,0 +1,5 @@
+rule,n_dropped,descriptors
+missing > 5%,8,"BCUT2D_MWHI, BCUT2D_MWLOW, BCUT2D_CHGHI, BCUT2D_CHGLO, BCUT2D_LOGPHI, BCUT2D_LOGPLOW, BCUT2D_MRHI, BCUT2D_MRLOW"
+zero variance,5,"SMR_VSA8, SlogP_VSA9, fr_benzodiazepine, fr_dihydropyridine, fr_prisulfonamd"
+explicit halogen descriptor (Phase 2 rule),2,"fr_alkyl_halide, fr_halogen"
+|correlation| > 0.95,35,"MaxEStateIndex, HeavyAtomMolWt, ExactMolWt, NumValenceElectrons, MaxAbsPartialCharge, FpDensityMorgan3, Chi0, Chi0n, Chi0v, Chi1, Chi1n, Chi1v, Chi2n, Chi2v, Chi3n, Chi4n, Chi4v, Kappa2, LabuteASA, SlogP_VSA5, SlogP_VSA6, HeavyAtomCount, NOCount, NumAromaticRings, NumHAcceptors, Phi, MolMR, fr_Al_OH_noTert, fr_COO2, fr_Nhpyrrole, fr_amide, fr_benzene, fr_nitro_arom, fr_phenol, fr_phenol_noOrthoHbond"
